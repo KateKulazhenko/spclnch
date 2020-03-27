@@ -1,0 +1,23 @@
+.navbar {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: black;
+    padding-top: 16px;
+}
+
+.navbar-nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar-item {
+    padding: 16px;
+}
+
+.navbar-link {
+    color: white;
+}
